@@ -1,0 +1,21 @@
+{
+  "name": "simple-calculator-starter",
+  "version": "1.0.0",
+  "description": "Github Actions CI/CD 학습용 계산기",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server src -p 8080 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotcoffing/sw_CICD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/hotcoffing/sw_CICD/issues"
+  },
+  "homepage": "https://github.com/hotcoffing/sw_CICD#readme"
+}
